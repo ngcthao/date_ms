@@ -11,7 +11,7 @@ Run the client and the microservice in two separate terminals to establish a con
 ---Enter <py date_client\.py> in terminal 2
 
 To Request Data:<br/>
-Input any 0 or positive integer value in the client and press enter.<br/>
+Input an empty string, or any integer greater than 0 into the client and press enter.<br/>
 ---Assume today's date is May 14, 2024<br/>
 ---Enter <2> in the client
 
