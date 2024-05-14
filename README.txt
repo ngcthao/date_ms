@@ -10,9 +10,9 @@ Run the client and the microservice in two separate terminals to establish a con
 Enter any integer value in the client input to receive a corresponding date in MONTH DAY, YEAR format.
 Enter "exit" in the client input to close both the client and the microservice.
 
-Limitations:
+LIMITATIONS
 The date microservice only handles single client connections.
 
-Credits:
+CREDITS
 The client and server code are based off of the following tutorial--
 https://www.datacamp.com/tutorial/a-complete-guide-to-socket-programming-in-python
