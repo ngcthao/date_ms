@@ -1,5 +1,5 @@
 # Based off of: https://www.datacamp.com/tutorial/a-complete-guide-to-socket-programming-in-python
-# import socket
+import socket
 SERVER_IP = "127.0.0.1"
 PORT = 8000
 # Port to listen on (non-privileged ports are > 1023)
