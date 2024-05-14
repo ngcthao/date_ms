@@ -7,8 +7,8 @@ Datetime Module<br/>
 
 INSTRUCTIONS/COMMUNICATION CONTRACT<br/>
 Run the client and the microservice in two separate terminals to establish a connection.<br/>
----Enter <py date_ms.py> in terminal 1<br/>
----Enter <py date_client.py> in terminal 2
+---Enter <py \date_ms.py> in terminal 1<br/>
+---Enter <py \date_client.py> in terminal 2
 
 To Request Data:<br/>
 Input any 0 or positive integer value in the client and press enter.<br/>
