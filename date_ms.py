@@ -31,6 +31,9 @@ def run_server():
                 client_socket.send("closed".encode("utf-8"))
                 break
 
+            if not request:
+                break
+
             print(f"Received: {request}")
 
             response = get_date(request).encode("utf-8")
@@ -43,4 +46,5 @@ def run_server():
         server.close()
 
 
-run_server()
+while True:
+    run_server()
